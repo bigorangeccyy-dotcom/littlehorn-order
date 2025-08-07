@@ -1,1 +1,1 @@
-export default function Home() { return <h1>LittleHorn 点单系统 - 测试成功</h1>; }
+// Main page logic here

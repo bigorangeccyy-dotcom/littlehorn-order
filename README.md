@@ -1,3 +1,3 @@
-# LittleHorn Order
+# LittleHorn 点单系统
 
-扫码点单系统。
+欢迎使用！
